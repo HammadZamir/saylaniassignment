@@ -1,0 +1,53 @@
+
+#main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+background-color:#4169E1;
+}
+
+#p1{
+    color: white;
+}
+
+
+/* #one,#two,#three{
+     border: 2px solid black;
+} */
+
+
+
+
+
+
+
+
+
+li{
+    display: inline-block;
+}
+
+
+
+
+#one{
+   flex: 1;
+  
+}
+
+#two{
+flex: 10%;
+text-align: center;
+}
+
+#three{
+flex: 1;
+}
+
+
+
+
+

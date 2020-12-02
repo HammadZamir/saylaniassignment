@@ -1,0 +1,63 @@
+#facebook,#twitter,#instagram,#whatsapp{
+    margin: 0px 0px 0px 20px;
+}
+
+#facebook{
+position: absolute;
+top: 18px;
+left: 60px;
+}
+
+#twitter{
+position: absolute;
+left: 100px;
+top: 13px;
+}
+
+#instagram{
+position: absolute;
+top: 18px;
+left: 150px;
+width: 22px;
+}
+
+#whatsapp{
+position: absolute;
+top: 18px;
+left: 200px;
+width: 22px;
+}
+
+
+
+
+
+
+
+#uk{
+border: 1px solid red;
+position: absolute;
+top: 20px;
+right: 265px;
+color: white;
+}
+
+#donate{
+    border: 1px solid red;
+    position: absolute;
+ top: 20px;
+right:175px ;
+color: white;
+}
+
+#fee{
+    border: 1px solid red;
+    position: absolute;
+top: 20px;
+right:97px ;
+color: white;
+}
+
+a:link{
+    text-decoration: none;
+}
